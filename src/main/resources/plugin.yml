@@ -1,0 +1,8 @@
+name: PluginManagerX
+version: '${project.version}'
+main: org.legacity.pluginmanagerx.Main
+api-version: 1.8
+commands:
+  pmx:
+    description: All PluginManagerX commands.
+
